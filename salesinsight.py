@@ -1,6 +1,6 @@
 ### SCTec
-##  SalesInsight_PY_Ademir_Schiestl_QADBEN202629
-##  SalesInsight PY — análise e visualização de dados de vendas.
+###  SalesInsight_PY_Ademir_Schiestl_QADBEN202629
+###  SalesInsight PY — análise e visualização de dados de vendas.
 
 """Meu projeto de análise e visualização de dados de vendas com Python."""
 
