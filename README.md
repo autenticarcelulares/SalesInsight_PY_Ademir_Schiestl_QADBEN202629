@@ -88,7 +88,7 @@ Também considero importante ter cuidado na interpretação: o gráfico de dispe
 Para concluir a entrega individual, preciso conferir a publicação do repositório no GitHub e o atendimento aos requisitos de versionamento: branches `main`, `develop`, `feat/pipeline-dados` e `docs/readme`, além de pelo menos cinco commits com mensagens descritivas.
 
 ## Vídeo de demonstração
-**Link do vídeo: a inserir.**
+**Link do vídeo: a inserir em breve.**
 
 Na apresentação, vou mostrar o objetivo do projeto, como executá-lo e os resultados gerados. Também vou explicar a organização das tarefas, as branches utilizadas, a decisão de remover datas inválidas e uma possibilidade de melhoria.
 
